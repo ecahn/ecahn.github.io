@@ -1,0 +1,58 @@
+.container {
+	width: 960px;
+	margin: 0 auto;
+	background-color: rgb(9, 202, 159);
+	text-align: center;
+	color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	height: 45px;
+	font-size: 75%;
+}
+	
+.places{
+		text-align: center;
+		word-spacing: 45px;
+		font-weight: bold;
+	
+}
+.maui {
+	background-color: rgb(195,221,251);
+	width: 960px;
+	padding: 30px;
+	margin-top: 20px;
+
+}
+.maui-image{
+	margin: 0 auto;
+}
+.reyjkavik {
+	background-color: rgb(193,231,226);
+	width: 960px;
+	padding: 30px;
+	margin-top: 20px;
+}
+.reyjkavik-image{
+	margin: 0 auto;
+	height: 30%;
+	width: 30%;
+
+}
+.aspen {
+	background-color: rgb(195,221,251);
+	width: 960px;
+	padding: 30px;
+	margin-top: 20px;
+}
+.aspen-image{
+	margin: 0 auto;
+	height: 30%;
+	width: 30%;
+
+}
+.footer{
+	text-align:center;
+	font-weight:bold;
+
+
+}
