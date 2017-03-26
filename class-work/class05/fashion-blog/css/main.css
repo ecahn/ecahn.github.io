@@ -1,0 +1,32 @@
+.container{
+	width: 720px;
+	padding-left: 20px;
+	border-left: 20px;
+	padding-top: 54px;
+	line-height: 1.5;
+	font-weight:300;
+
+
+}
+a {
+	color: grey;
+}
+.Better{
+	font-weight:300;
+}
+.Sartre{
+	font-weight:300;
+}
+.anchorcontinues{
+	text-align: right;
+}
+.anchorcontinues2{
+	text-align:right;
+}
+h1{
+	font-weight:300;
+	color:red;
+}
+h2{font-weight:300;
+}
+ 
